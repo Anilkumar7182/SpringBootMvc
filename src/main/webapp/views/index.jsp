@@ -34,6 +34,7 @@
 		<form:checkboxes items="${timings}" path="timings"/>
 		<br>
 		<button type="submit"> Submit </button>
+		<button>more info</button>
 		
 	</form:form>
 
